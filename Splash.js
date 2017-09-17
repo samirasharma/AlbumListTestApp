@@ -16,7 +16,7 @@ export default class  extends Component{
 	}
 	const styles = StyleSheet.create({
 		wrapper : {
-			backgroundColor:'green', 
+			backgroundColor:'#42A5F5', 
 			flex : 1, 
 			alignItems:'center', 
 			justifyContent:'center'},
