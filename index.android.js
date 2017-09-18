@@ -11,12 +11,13 @@ import {
   Text,
   View
 } from 'react-native';
-import Splash from './Splash';
+// import Splash from './Splash';
+import Login from './src/components/Login/Login';
 
 export default class ReminderApp extends Component {
   render() {
     return (
-      <Splash/>
+      <Login/>
     );
   }
 }

@@ -26,7 +26,7 @@ export default class  extends Component{
 			fontWeight  :'bold'
 		}, 
 		subtitle:{
-			color :'white', 
+			color :'black', 
 			fontSize: 16
 		}
 	});
